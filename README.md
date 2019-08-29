@@ -1,7 +1,7 @@
 # Spring Cloud Function example
 
 ## Exposed Functions as Endpoints
-- *Supplier* - `/supply` - returns an output
+- *upplier* - `/supply` - returns an output
 
 ```
 curl -H 'Content-Type: text/plain' http://localhost:8080/supply
